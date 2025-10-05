@@ -22,3 +22,4 @@ $ npm install wagmi viem@2.x @tanstack/react-query
 
 从此篇以后，我会尝试更加多的英文描述，毕竟咱们要搞web3，学好英语和会用英语是必要的
 > Vercel is the Frontend Cloud. Build, scale, and secure a faster, personalized web.
+<!-- Auto-update: 2025-10-05T11:34:55.872984 -->
